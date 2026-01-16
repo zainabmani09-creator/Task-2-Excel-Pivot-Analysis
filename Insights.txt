@@ -1,0 +1,5 @@
+1.Technology is the highest-performing category in terms of total sales, making it the primary revenue driver.
+2.Office Supplies contributes the least to overall sales, indicating lower demand compared to other categories.
+3.The West region records the highest total sales across all customer segments.
+4.The South region shows comparatively lower sales and can be considered an underperforming region.
+5.Technology also has the highest average profit margin, while Furniture shows lower profitability despite decent sales.
